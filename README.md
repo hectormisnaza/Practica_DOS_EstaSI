@@ -1,4 +1,7 @@
 # Practica_DOS_EstaSI
-Hector Misnaza EmilianoRecoski
-exit
+
+Emiliano Recoski
+Hector Misnaza
+Sergio Aciar
+Elias Gazza
 
