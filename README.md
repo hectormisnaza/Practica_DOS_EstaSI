@@ -1,3 +1,8 @@
 # Practica_DOS_EstaSI
+
+Emiliano Recoski
 Hector Misnaza
-Carolina Jimenez Ramirez
+Sergio Aciar
+Elias Gazza
+Carolina JImenez Ramirez
+
